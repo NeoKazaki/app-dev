@@ -1,6 +1,8 @@
 # app-dev
 My first repository
 
+--- John Anniiluv A. Atag BSIT 03
+
 `My favorite anime series`
 
 - Naruto
